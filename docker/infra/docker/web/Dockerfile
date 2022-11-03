@@ -9,7 +9,7 @@ RUN apt-get update && \
     yarn global add @vue/cli-init && \
     yarn add firebase --save
 
-WORKDIR /app
+WORKDIR /web
 
 COPY ./frontend/package.json ./
 
