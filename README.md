@@ -129,5 +129,10 @@ volumes:
 $ docker compose up -d
 ```
 
+## 7. 参考
+- [前職のカリキュラム環境](https://github.com/Kurogoma939/backend_workspace/tree/main/07_Laravel/Larave_2-1)
+- [Zenn](https://zenn.dev/topics/docker)
+- [Qiita](https://qiita.com/tags/docker)
+
 
 EOF;
